@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #BFBF84;
+}
+
+h1, h2{
+    text-align: center;
+    margin-top: 3%;
+    color: black;
+    
+}
+
+div{
+    height: 400px;
+    width: 400px;
+    margin: 3% auto;
+
+    border: 5px dashed #c3ff70;
+    
+    border-radius: 20%;
+    background-image: url(IMG_20230723_115610006_MF_PORTRAIT.jpg);
+    background-size:cover;
+    box-shadow: inset 15px 15px 20px #FFFF71 ;
+
+    padding: 10px 10px 20px 10px;
+
+    outline: 15px groove #FFEE70 ;
+   
+    
+}
+
+p{
+    text-align: center;
+    background-color: transparent;
+    font-size: 45px ;
+    font-style: italic;
+    margin: 367px auto;
+    color: white;
+    word-spacing: 2%;
+    /* text-shadow: 1px 1px; */
+    
+}
